@@ -1,0 +1,12 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #f8e7af;
+    display: grid;
+    place-items: center;
+}
+button{
+    background-color: yellow;
+    font-style: bold;
+    border-radius: 20%;
+}
